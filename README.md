@@ -18,3 +18,4 @@
 Для работы с датой и временем можете воспользоваться библиотекой Moment.js.
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/tnpbt3y1ixxtldut/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-hoc-time/branch/main)
